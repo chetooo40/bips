@@ -260,7 +260,7 @@ Those proposing changes should consider that ultimately consent may rest with th
 | Draft
 |- style="background-color: #ffffcf"
 | [[bip-0048.mediawiki|48]]
-| Applications
+| ApplicationsApplicationsع٦Applicationsع٦Applicationsع٦
 | Multi-Script Hierarchy for Multi-Sig Wallets
 | Fontaine
 | Standard
@@ -992,6 +992,7 @@ Those proposing changes should consider that ultimately consent may rest with th
 | Applications
 | Anti-fee-sniping protection in taproot transactions
 | Chris Belcher
+
 | Informational
 | Draft
 |-

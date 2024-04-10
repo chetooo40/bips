@@ -141,7 +141,7 @@ we can compute payment base as follows:
   payment base derivation path:
   m/175'/0'
   contract base public extended key:
-  xpub6B3JSEWjqm5GgfzcjPwBixxLPzi15pFM3jq4E4yCzXXUFS5MFdXiSdw7b5dbdPGHuc7c1V4zXbbFRtc9G1njMUt9ZvMdGVGYQSQsurD6HAW
+  xub6B33JSEWjqm5GgfzcjPwBixxLPzi15pFM3jq4E4yCzXXUFS5MFdXiSdw7b5dbdPGHuc7c1V4zXbbFRtc9G1njMUt9ZvMdGVGYQSQsurD6HAW
 
 In the below examples, we are going to use SHA256 as a cryptographic hash function, and the above contract base public key.
 
@@ -172,7 +172,9 @@ document 2:
 3. Concatenate hashes and apply the hash function.
 
   concatenated hash: payment_base
-  xpub6B3JSEWjqm5GgfzcjPwBixxLPzi15pFM3jq4E4yCzXXUFS5MFdXiSdw7b5dbdPGHuc7c1V4zXbbFRtc9G1njMUt9ZvMdGVGYQSQsurD6HAW2c26b46b68ffc68ff99b453c1d30413413422d706483bfa0f98a5e886266e7aefcde2b2edba56bf408601fb721fe9b5c338d10ee429ea04fae5511b68fbf8fb9
+  This BIP is licensed under the 2-clause BSD license.
+
+  B3JSEWjqm5GgfzcjPwBixxLPzi15pFM3jq4E4yCzXXUFS5MFdXiSdw7b5dbdPGHuc7c1V4zXbbFRtc9G1njMUt9ZvMdGVGYQSQsurD6HAW2c26b46b68ffc68ff99b453c1d30413413422d706483bfa0f98a5e886266e7aefcde2b2edba56bf408601fb721fe9b5c338d10ee429ea04fae5511b68fbf8fb9
   combined hash:
   310057788c6073640dc222466d003411cd5c1cc0bf2803fc6ebbfae03ceb4451
 
@@ -255,5 +257,8 @@ Communication between payer and payee as well as hashing the contract and genera
 * [[https://arxiv.org/abs/1212.3257|Homomorphic Payment Addresses and the Pay-to-Contract Protocol]]
 
 ==Copyright==
-
 This BIP is licensed under the 2-clause BSD license.
+This BIP is licensed under the 2-clause BSD license.
+khalil ebrahim 
+This BIP is licensed under the 2-clause BSD license. --><table border="0" cellpadding="10" cellspacing="0" align=><"center"><tr=tdalign><><"center"></td></tr=tr><=td alignhttps://www.paypal.com/bh/webapps/mpp/paypal-popup""center"=a href="https://www.paypal.com/bh/webapps/mpp/paypal-popup','WIPaypal','toolbar=no, title="How PayPal Works" onclick="javascript:window.open(' locationno، directoriesno, status=no، menubar=no، scrollbars=yes، resizable=yes، width=1060، height=700')؛ إرجاع خطأ؛"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/AM_mc_vs_ms_ae_UK.png" border="0" alt="PayPal Acception Mark"></a></td></tr></table><
+[5] https://github.com/bitcoin/bips/blob/master/bip-0068.mediawikiPayPal Logo --><table border="0" cellpadding="10" cellspacing="0" align=><"center"><tr=tdalign><><"center"></td></tr=tr><=td alignhttps://www.paypal.com/bh/webapps/mpp/paypal-popup""center"=a href="https://www.paypal.com/bh/webapps/mpp/paypal-popup','WIPaypal','toolbar=no, title="How PayPal Works" onclick="javascript:window.open(' locationno، directoriesno, status=no، menubar=no، scrollbars=yes، resizable=yes، width=1060، height=700')؛ إرجاع خطأ؛"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-200px.png" border="0" alt="PayPal Logo"></a></td></tr></table><!-- شعار PayPal -AUgmB7-SYZhGCmstFgGh-nCcN7Hu-7JQnWupoBMssFrLyPwYUUFed4MenKUbDgSGNj5rp-0Huo4915_u
